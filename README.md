@@ -95,26 +95,16 @@ manish@dev:~$ cat about.txt
 - Built a Random Forest baseline, then an XGBoost model, lifting directional forecasting accuracy to 52.8%
 - Developed a backtesting system to simulate real trading performance
 
+<sub>🔗 Repo links above point to my GitHub — swap in the exact repository URLs once you confirm which repos these live in.</sub>
 
 ---
 
 ### 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ManishjangirIITG&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9D&icon_color=00FF9D&text_color=c9d1d9" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ManishjangirIITG&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF9D&fire=00FF9D&currStreakLabel=00FF9D" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=ManishjangirIITG&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF9D&fire=00FF9D&currStreakLabel=00FF9D" width="49%" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManishjangirIITG&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9D&text_color=c9d1d9" width="48%" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ManishjangirIITG&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF9D&line=00FF9D&point=ffffff" width="98%" />
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ManishjangirIITG&theme=darkhub&no-frame=true&row=1&column=6" />
 </p>
 
 ---
