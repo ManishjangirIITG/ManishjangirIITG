@@ -95,8 +95,6 @@ manish@dev:~$ cat about.txt
 - Built a Random Forest baseline, then an XGBoost model, lifting directional forecasting accuracy to 52.8%
 - Developed a backtesting system to simulate real trading performance
 
-<sub>🔗 Repo links above point to my GitHub — swap in the exact repository URLs once you confirm which repos these live in.</sub>
-
 ---
 
 ### 📊 GitHub Analytics
