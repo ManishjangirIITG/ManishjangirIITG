@@ -31,7 +31,7 @@ manish@dev:~$ cat about.txt
 - 🐳 Cut Docker image size by 60%+ via multi-stage builds for leaner CI/CD pipelines
 - 🌱 Currently sharpening **System Design** & distributed systems
 - 💬 Ask me about GNNs, backend architecture, or Dockerized ML pipelines
-- 📫 Reach me at **work.manishjangiriitg@gmail.com**
+- 📫 Reach me at **linkedin.com/in/jangirmanish**
 - 📍 Gurugram, India
 
 ---
