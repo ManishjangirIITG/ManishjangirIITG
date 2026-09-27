@@ -123,8 +123,6 @@ manish@dev:~$ cat about.txt
 <a href="https://www.linkedin.com/in/jangirmanish/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF9D" /></a>
 <a href="https://leetcode.com/u/ManishjangirIITG/"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=00FF9D" /></a>
 <a href="https://codeforces.com/profile/Manish_Jangir"><img src="https://img.shields.io/badge/Codeforces-0D1117?style=for-the-badge&logo=codeforces&logoColor=00FF9D" /></a>
-<a href="mailto:work.manishjangiriitg@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF9D" /></a>
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1B2735&height=3&section=footer" width="100%"/>
 
